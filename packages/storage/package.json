@@ -65,7 +65,7 @@
   },
   "dependencies": {
     "cid-tool": "^3.0.0",
-    "form-data": "^4.0.0",
+    "form-data": "^4.0.4",
     "uuid": "^9.0.1"
   }
 }
